@@ -10,6 +10,8 @@ sites:
     check: "tcp-ping"
     url: $U1
     port: 853
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   cname: instances.kazi.one
