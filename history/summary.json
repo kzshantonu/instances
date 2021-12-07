@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 473,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "time": 463,
+    "timeDay": 463,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2060,
-    "timeDay": 2060,
-    "timeWeek": 2060,
-    "timeMonth": 2060,
-    "timeYear": 2060,
+    "time": 2092,
+    "timeDay": 2092,
+    "timeWeek": 2092,
+    "timeMonth": 2092,
+    "timeYear": 2092,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "12.36%",
+    "uptimeDay": "12.36%",
+    "uptimeWeek": "12.36%",
+    "uptimeMonth": "12.36%",
+    "uptimeYear": "12.36%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   }
 ]
