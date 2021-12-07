@@ -2,9 +2,9 @@ owner: kzshantonu
 repo: instances
 
 sites:
-  - name: Nitter instance
+  - name: nttr.stream
     url: https://nttr.stream
-  - name: Libreddit instance
+  - name: leddit.xyz
     url: https://leddit.xyz
 
 status-website:
