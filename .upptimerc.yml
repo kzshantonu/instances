@@ -6,11 +6,6 @@ sites:
     url: https://nttr.stream
   - name: leddit.xyz
     url: https://leddit.xyz
-  - name: DoT
-    check: "tcp-ping"
-    url: $U1
-    port: 853
-
 status-website:
   cname: instances.kazi.one
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
