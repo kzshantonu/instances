@@ -4,19 +4,19 @@
     "url": "https://nttr.stream",
     "icon": "https://favicons.githubusercontent.com/nttr.stream",
     "slug": "nttr-stream",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 408,
-    "timeWeek": 486,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 482,
+    "timeDay": 477,
+    "timeWeek": 494,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2021-12-19": 0
+      "2021-12-19": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://leddit.xyz",
     "icon": "https://favicons.githubusercontent.com/leddit.xyz",
     "slug": "leddit-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1789,
-    "timeDay": 2549,
-    "timeWeek": 1569,
-    "timeMonth": 1789,
-    "timeYear": 1789,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1788,
+    "timeDay": 2163,
+    "timeWeek": 1595,
+    "timeMonth": 1788,
+    "timeYear": 1788,
     "dailyMinutesDown": {
-      "2021-12-19": 0
+      "2021-12-19": 10
     }
   }
 ]
