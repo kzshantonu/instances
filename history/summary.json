@@ -4,9 +4,9 @@
     "url": "https://nttr.stream",
     "icon": "https://favicons.githubusercontent.com/nttr.stream",
     "slug": "nttr-stream",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 546,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "leddit.xyz",
     "url": "https://leddit.xyz",
     "icon": "https://favicons.githubusercontent.com/leddit.xyz",
     "slug": "leddit-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,9 +32,11 @@
     "uptimeYear": "100.00%",
     "time": 1818,
     "timeDay": 1867,
-    "timeWeek": 1889,
+    "timeWeek": 1905,
     "timeMonth": 1818,
     "timeYear": 1818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   }
 ]
