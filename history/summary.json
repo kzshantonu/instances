@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 517,
-    "timeDay": 573,
-    "timeWeek": 541,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "time": 515,
+    "timeDay": 436,
+    "timeWeek": 526,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2021-12-26": 15
     }
@@ -26,15 +26,15 @@
     "slug": "leddit-xyz",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1803,
-    "timeDay": 1399,
-    "timeWeek": 1771,
-    "timeMonth": 1803,
-    "timeYear": 1803,
+    "time": 1775,
+    "timeDay": 700,
+    "timeWeek": 1652,
+    "timeMonth": 1775,
+    "timeYear": 1775,
     "dailyMinutesDown": {
       "2022-01-02": 27,
       "2021-12-26": 15
