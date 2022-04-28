@@ -14,6 +14,9 @@ sites:
   - name: de.leddit.xyz
     url: https://de.leddit.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: send
+    url: https://send.mni.li
+    icon: https://raw.githubusercontent.com/timvisee/send/master/assets/icon.svg
 status-website:
   cname: instances.kazi.one
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
